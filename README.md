@@ -1,4 +1,4 @@
 pip install requirements.txt
 
 
-python Caerer-Assistant-Agent
+python Career-Assistant-Agent
